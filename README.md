@@ -27,4 +27,4 @@ The task is equivalent to **Kaggle’s Tweet Sentiment Extraction** challenge, w
 
 update:
 ec523largejacloss includes all the code related to roberta and loss funtions. 
-523lstm includes code related to lstm.
+523projectlstm includes code related to lstm.
